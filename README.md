@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Guilhermo
+Hi 👋 My name is Gregory Lawford.
 ==========================
 
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 24 year old developer, I love to code and figure out how to solve deep problems using cutting edge technology. My main focus is front and back-end and database development, making applications that impact the lives of thousands of users.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
+I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis and development course.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [guilhermomasid@gmail.com](mailto:guilhermomasid@gmail.com)
-* 🚀  I'm currently working on [Result Sistemas](http://resultsistemas.com)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C programming language
+* 🌍  I live in Sao Paulo, Brazil
+* ✉️  You can contact me at [lawfordgregory@gmail.com](lawfordgregory@gmail.com)
+* 🚀  I'm currently looking for challenges
+* 🧠  I'm learning Javascript, HTML, Python, database and unit tests and C programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love sports and my favorite is Jiu-Jitsu
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
