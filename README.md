@@ -44,15 +44,6 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Socials
-
-<p align="left"><a href="https://discord.com/users/Law_Mello#0844" target="_blank" rel="noreferrer"></a> 
-
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-
-<a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="32" /></a> 
-
-
 
 ### Badges
 
