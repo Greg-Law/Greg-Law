@@ -41,7 +41,7 @@ src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"><a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<p align="left"><a href="https://discord.com/users/Law_Mello#0844" target="_blank" rel="noreferrer"></a> 
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 
