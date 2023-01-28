@@ -46,7 +46,7 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 
-<a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="32" /></a> 
 
 
 
