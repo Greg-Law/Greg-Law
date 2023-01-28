@@ -39,6 +39,7 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="36" height="36" alt="Javascript" />
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ### Socials
 
