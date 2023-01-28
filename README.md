@@ -59,6 +59,5 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-Law&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Greg-Law)
 
-### Support Me
+### THE END
 
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
