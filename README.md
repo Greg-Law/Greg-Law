@@ -57,7 +57,7 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 <a href="http://www.github.com/Greg-Law"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=peguimasid&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=peguimasid&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
 
 ### Support Me
 
