@@ -40,6 +40,8 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white"/>
+
 ### Socials
 
 <p align="left"><a href="https://discord.com/users/Law_Mello#0844" target="_blank" rel="noreferrer"></a> 
