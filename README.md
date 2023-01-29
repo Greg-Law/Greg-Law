@@ -31,7 +31,7 @@ I am also a student at Unicid (https://www.unicid.edu.br/), a systems analysis a
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
 * ⚡  I love sports and my favorite is Jiu-Jitsu
 
-###Socials
+### Socials
 
 <a href="https://pt.stackoverflow.com/users/319655/gregory-lawford" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 
